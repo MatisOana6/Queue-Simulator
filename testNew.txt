@@ -1,0 +1,736 @@
+
+Time: 0
+Waiting clients: (15,3,7)(16,4,4)(37,4,4)(29,9,4)(3,10,4)(33,10,7)(10,11,3)(20,11,4)(14,12,7)(31,12,8)(4,13,9)(5,13,10)(6,13,4)(30,13,7)(39,14,8)(11,15,5)(25,15,6)(1,16,4)(23,16,9)(40,16,5)(13,17,10)(22,17,9)(28,19,3)(35,20,5)(2,21,10)(17,22,7)(21,22,10)(24,22,8)(19,24,8)(27,24,10)(36,24,3)(32,26,9)(38,26,6)(12,27,7)(26,28,8)(7,29,10)(8,29,7)(34,29,7)(9,30,4)(18,30,7)
+Queue 0: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 1
+Waiting clients: (15,3,7)(16,4,4)(37,4,4)(29,9,4)(3,10,4)(33,10,7)(10,11,3)(20,11,4)(14,12,7)(31,12,8)(4,13,9)(5,13,10)(6,13,4)(30,13,7)(39,14,8)(11,15,5)(25,15,6)(1,16,4)(23,16,9)(40,16,5)(13,17,10)(22,17,9)(28,19,3)(35,20,5)(2,21,10)(17,22,7)(21,22,10)(24,22,8)(19,24,8)(27,24,10)(36,24,3)(32,26,9)(38,26,6)(12,27,7)(26,28,8)(7,29,10)(8,29,7)(34,29,7)(9,30,4)(18,30,7)
+Queue 0: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 2
+Waiting clients: (15,3,7)(16,4,4)(37,4,4)(29,9,4)(3,10,4)(33,10,7)(10,11,3)(20,11,4)(14,12,7)(31,12,8)(4,13,9)(5,13,10)(6,13,4)(30,13,7)(39,14,8)(11,15,5)(25,15,6)(1,16,4)(23,16,9)(40,16,5)(13,17,10)(22,17,9)(28,19,3)(35,20,5)(2,21,10)(17,22,7)(21,22,10)(24,22,8)(19,24,8)(27,24,10)(36,24,3)(32,26,9)(38,26,6)(12,27,7)(26,28,8)(7,29,10)(8,29,7)(34,29,7)(9,30,4)(18,30,7)
+Queue 0: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 3
+Waiting clients: (15,3,7)(16,4,4)(37,4,4)(29,9,4)(3,10,4)(33,10,7)(10,11,3)(20,11,4)(14,12,7)(31,12,8)(4,13,9)(5,13,10)(6,13,4)(30,13,7)(39,14,8)(11,15,5)(25,15,6)(1,16,4)(23,16,9)(40,16,5)(13,17,10)(22,17,9)(28,19,3)(35,20,5)(2,21,10)(17,22,7)(21,22,10)(24,22,8)(19,24,8)(27,24,10)(36,24,3)(32,26,9)(38,26,6)(12,27,7)(26,28,8)(7,29,10)(8,29,7)(34,29,7)(9,30,4)(18,30,7)
+Queue 0: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 4
+Waiting clients: (16,4,4)(37,4,4)(29,9,4)(3,10,4)(33,10,7)(10,11,3)(20,11,4)(14,12,7)(31,12,8)(4,13,9)(5,13,10)(6,13,4)(30,13,7)(39,14,8)(11,15,5)(25,15,6)(1,16,4)(23,16,9)(40,16,5)(13,17,10)(22,17,9)(28,19,3)(35,20,5)(2,21,10)(17,22,7)(21,22,10)(24,22,8)(19,24,8)(27,24,10)(36,24,3)(32,26,9)(38,26,6)(12,27,7)(26,28,8)(7,29,10)(8,29,7)(34,29,7)(9,30,4)(18,30,7)
+Queue 0: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 5
+Waiting clients: (29,9,4)(3,10,4)(33,10,7)(10,11,3)(20,11,4)(14,12,7)(31,12,8)(4,13,9)(5,13,10)(6,13,4)(30,13,7)(39,14,8)(11,15,5)(25,15,6)(1,16,4)(23,16,9)(40,16,5)(13,17,10)(22,17,9)(28,19,3)(35,20,5)(2,21,10)(17,22,7)(21,22,10)(24,22,8)(19,24,8)(27,24,10)(36,24,3)(32,26,9)(38,26,6)(12,27,7)(26,28,8)(7,29,10)(8,29,7)(34,29,7)(9,30,4)(18,30,7)
+Queue 0: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 6
+Waiting clients: (29,9,4)(3,10,4)(33,10,7)(10,11,3)(20,11,4)(14,12,7)(31,12,8)(4,13,9)(5,13,10)(6,13,4)(30,13,7)(39,14,8)(11,15,5)(25,15,6)(1,16,4)(23,16,9)(40,16,5)(13,17,10)(22,17,9)(28,19,3)(35,20,5)(2,21,10)(17,22,7)(21,22,10)(24,22,8)(19,24,8)(27,24,10)(36,24,3)(32,26,9)(38,26,6)(12,27,7)(26,28,8)(7,29,10)(8,29,7)(34,29,7)(9,30,4)(18,30,7)
+Queue 0: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 7
+Waiting clients: (29,9,4)(3,10,4)(33,10,7)(10,11,3)(20,11,4)(14,12,7)(31,12,8)(4,13,9)(5,13,10)(6,13,4)(30,13,7)(39,14,8)(11,15,5)(25,15,6)(1,16,4)(23,16,9)(40,16,5)(13,17,10)(22,17,9)(28,19,3)(35,20,5)(2,21,10)(17,22,7)(21,22,10)(24,22,8)(19,24,8)(27,24,10)(36,24,3)(32,26,9)(38,26,6)(12,27,7)(26,28,8)(7,29,10)(8,29,7)(34,29,7)(9,30,4)(18,30,7)
+Queue 0: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 8
+Waiting clients: (29,9,4)(3,10,4)(33,10,7)(10,11,3)(20,11,4)(14,12,7)(31,12,8)(4,13,9)(5,13,10)(6,13,4)(30,13,7)(39,14,8)(11,15,5)(25,15,6)(1,16,4)(23,16,9)(40,16,5)(13,17,10)(22,17,9)(28,19,3)(35,20,5)(2,21,10)(17,22,7)(21,22,10)(24,22,8)(19,24,8)(27,24,10)(36,24,3)(32,26,9)(38,26,6)(12,27,7)(26,28,8)(7,29,10)(8,29,7)(34,29,7)(9,30,4)(18,30,7)
+Queue 0: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 9
+Waiting clients: (29,9,4)(3,10,4)(33,10,7)(10,11,3)(20,11,4)(14,12,7)(31,12,8)(4,13,9)(5,13,10)(6,13,4)(30,13,7)(39,14,8)(11,15,5)(25,15,6)(1,16,4)(23,16,9)(40,16,5)(13,17,10)(22,17,9)(28,19,3)(35,20,5)(2,21,10)(17,22,7)(21,22,10)(24,22,8)(19,24,8)(27,24,10)(36,24,3)(32,26,9)(38,26,6)(12,27,7)(26,28,8)(7,29,10)(8,29,7)(34,29,7)(9,30,4)(18,30,7)
+Queue 0: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 10
+Waiting clients: (3,10,4)(33,10,7)(10,11,3)(20,11,4)(14,12,7)(31,12,8)(4,13,9)(5,13,10)(6,13,4)(30,13,7)(39,14,8)(11,15,5)(25,15,6)(1,16,4)(23,16,9)(40,16,5)(13,17,10)(22,17,9)(28,19,3)(35,20,5)(2,21,10)(17,22,7)(21,22,10)(24,22,8)(19,24,8)(27,24,10)(36,24,3)(32,26,9)(38,26,6)(12,27,7)(26,28,8)(7,29,10)(8,29,7)(34,29,7)(9,30,4)(18,30,7)
+Queue 0: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 11
+Waiting clients: (10,11,3)(20,11,4)(14,12,7)(31,12,8)(4,13,9)(5,13,10)(6,13,4)(30,13,7)(39,14,8)(11,15,5)(25,15,6)(1,16,4)(23,16,9)(40,16,5)(13,17,10)(22,17,9)(28,19,3)(35,20,5)(2,21,10)(17,22,7)(21,22,10)(24,22,8)(19,24,8)(27,24,10)(36,24,3)(32,26,9)(38,26,6)(12,27,7)(26,28,8)(7,29,10)(8,29,7)(34,29,7)(9,30,4)(18,30,7)
+Queue 0: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 12
+Waiting clients: (14,12,7)(31,12,8)(4,13,9)(5,13,10)(6,13,4)(30,13,7)(39,14,8)(11,15,5)(25,15,6)(1,16,4)(23,16,9)(40,16,5)(13,17,10)(22,17,9)(28,19,3)(35,20,5)(2,21,10)(17,22,7)(21,22,10)(24,22,8)(19,24,8)(27,24,10)(36,24,3)(32,26,9)(38,26,6)(12,27,7)(26,28,8)(7,29,10)(8,29,7)(34,29,7)(9,30,4)(18,30,7)
+Queue 0: (10,11,2)
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 13
+Waiting clients: (4,13,9)(5,13,10)(6,13,4)(30,13,7)(39,14,8)(11,15,5)(25,15,6)(1,16,4)(23,16,9)(40,16,5)(13,17,10)(22,17,9)(28,19,3)(35,20,5)(2,21,10)(17,22,7)(21,22,10)(24,22,8)(19,24,8)(27,24,10)(36,24,3)(32,26,9)(38,26,6)(12,27,7)(26,28,8)(7,29,10)(8,29,7)(34,29,7)(9,30,4)(18,30,7)
+Queue 0: 
+Queue 1: (14,12,6)
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 14
+Waiting clients: (39,14,8)(11,15,5)(25,15,6)(1,16,4)(23,16,9)(40,16,5)(13,17,10)(22,17,9)(28,19,3)(35,20,5)(2,21,10)(17,22,7)(21,22,10)(24,22,8)(19,24,8)(27,24,10)(36,24,3)(32,26,9)(38,26,6)(12,27,7)(26,28,8)(7,29,10)(8,29,7)(34,29,7)(9,30,4)(18,30,7)
+Queue 0: 
+Queue 1: (14,12,5)
+Queue 2: (30,13,6)
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 15
+Waiting clients: (11,15,5)(25,15,6)(1,16,4)(23,16,9)(40,16,5)(13,17,10)(22,17,9)(28,19,3)(35,20,5)(2,21,10)(17,22,7)(21,22,10)(24,22,8)(19,24,8)(27,24,10)(36,24,3)(32,26,9)(38,26,6)(12,27,7)(26,28,8)(7,29,10)(8,29,7)(34,29,7)(9,30,4)(18,30,7)
+Queue 0: 
+Queue 1: 
+Queue 2: (30,13,5)
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 16
+Waiting clients: (1,16,4)(23,16,9)(40,16,5)(13,17,10)(22,17,9)(28,19,3)(35,20,5)(2,21,10)(17,22,7)(21,22,10)(24,22,8)(19,24,8)(27,24,10)(36,24,3)(32,26,9)(38,26,6)(12,27,7)(26,28,8)(7,29,10)(8,29,7)(34,29,7)(9,30,4)(18,30,7)
+Queue 0: (11,15,4)
+Queue 1: (25,15,5)
+Queue 2: (30,13,4)
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 17
+Waiting clients: (13,17,10)(22,17,9)(28,19,3)(35,20,5)(2,21,10)(17,22,7)(21,22,10)(24,22,8)(19,24,8)(27,24,10)(36,24,3)(32,26,9)(38,26,6)(12,27,7)(26,28,8)(7,29,10)(8,29,7)(34,29,7)(9,30,4)(18,30,7)
+Queue 0: (11,15,3)
+Queue 1: (25,15,4)
+Queue 2: (30,13,3)
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 18
+Waiting clients: (28,19,3)(35,20,5)(2,21,10)(17,22,7)(21,22,10)(24,22,8)(19,24,8)(27,24,10)(36,24,3)(32,26,9)(38,26,6)(12,27,7)(26,28,8)(7,29,10)(8,29,7)(34,29,7)(9,30,4)(18,30,7)
+Queue 0: (11,15,2)
+Queue 1: (13,17,9)
+Queue 2: (30,13,2)
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 19
+Waiting clients: (28,19,3)(35,20,5)(2,21,10)(17,22,7)(21,22,10)(24,22,8)(19,24,8)(27,24,10)(36,24,3)(32,26,9)(38,26,6)(12,27,7)(26,28,8)(7,29,10)(8,29,7)(34,29,7)(9,30,4)(18,30,7)
+Queue 0: (11,15,1)
+Queue 1: 
+Queue 2: (30,13,1)
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 20
+Waiting clients: (35,20,5)(2,21,10)(17,22,7)(21,22,10)(24,22,8)(19,24,8)(27,24,10)(36,24,3)(32,26,9)(38,26,6)(12,27,7)(26,28,8)(7,29,10)(8,29,7)(34,29,7)(9,30,4)(18,30,7)
+Queue 0: (11,15,0)
+Queue 1: (28,19,2)
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 21
+Waiting clients: (2,21,10)(17,22,7)(21,22,10)(24,22,8)(19,24,8)(27,24,10)(36,24,3)(32,26,9)(38,26,6)(12,27,7)(26,28,8)(7,29,10)(8,29,7)(34,29,7)(9,30,4)(18,30,7)
+Queue 0: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 22
+Waiting clients: (17,22,7)(21,22,10)(24,22,8)(19,24,8)(27,24,10)(36,24,3)(32,26,9)(38,26,6)(12,27,7)(26,28,8)(7,29,10)(8,29,7)(34,29,7)(9,30,4)(18,30,7)
+Queue 0: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 23
+Waiting clients: (19,24,8)(27,24,10)(36,24,3)(32,26,9)(38,26,6)(12,27,7)(26,28,8)(7,29,10)(8,29,7)(34,29,7)(9,30,4)(18,30,7)
+Queue 0: (24,22,7)
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 24
+Waiting clients: (19,24,8)(27,24,10)(36,24,3)(32,26,9)(38,26,6)(12,27,7)(26,28,8)(7,29,10)(8,29,7)(34,29,7)(9,30,4)(18,30,7)
+Queue 0: (24,22,6)
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 25
+Waiting clients: (32,26,9)(38,26,6)(12,27,7)(26,28,8)(7,29,10)(8,29,7)(34,29,7)(9,30,4)(18,30,7)
+Queue 0: (24,22,5)
+Queue 1: (19,24,7)
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 26
+Waiting clients: (32,26,9)(38,26,6)(12,27,7)(26,28,8)(7,29,10)(8,29,7)(34,29,7)(9,30,4)(18,30,7)
+Queue 0: (24,22,4)
+Queue 1: (19,24,6)
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 27
+Waiting clients: (12,27,7)(26,28,8)(7,29,10)(8,29,7)(34,29,7)(9,30,4)(18,30,7)
+Queue 0: (24,22,3)
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 28
+Waiting clients: (26,28,8)(7,29,10)(8,29,7)(34,29,7)(9,30,4)(18,30,7)
+Queue 0: (24,22,2)
+Queue 1: (12,27,6)
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 29
+Waiting clients: (7,29,10)(8,29,7)(34,29,7)(9,30,4)(18,30,7)
+Queue 0: (24,22,1)
+Queue 1: (12,27,5)
+Queue 2: (26,28,7)
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 30
+Waiting clients: (9,30,4)(18,30,7)
+Queue 0: 
+Queue 1: (12,27,4)
+Queue 2: (26,28,6)
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 31
+Waiting clients: 
+Queue 0: 
+Queue 1: (12,27,3)
+Queue 2: (26,28,5)
+Queue 3: (18,30,6)
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 32
+Waiting clients: 
+Queue 0: 
+Queue 1: 
+Queue 2: (26,28,4)
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 33
+Waiting clients: 
+Queue 0: 
+Queue 1: 
+Queue 2: (26,28,3)
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 34
+Waiting clients: 
+Queue 0: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 35
+Waiting clients: 
+Queue 0: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 36
+Waiting clients: 
+Queue 0: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 37
+Waiting clients: 
+Queue 0: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 38
+Waiting clients: 
+Queue 0: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 39
+Waiting clients: 
+Queue 0: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 40
+Waiting clients: 
+Queue 0: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 41
+Waiting clients: 
+Queue 0: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 42
+Waiting clients: 
+Queue 0: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 43
+Waiting clients: 
+Queue 0: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 44
+Waiting clients: 
+Queue 0: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 45
+Waiting clients: 
+Queue 0: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 46
+Waiting clients: 
+Queue 0: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 47
+Waiting clients: 
+Queue 0: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 48
+Waiting clients: 
+Queue 0: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 49
+Waiting clients: 
+Queue 0: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 50
+Waiting clients: 
+Queue 0: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 51
+Waiting clients: 
+Queue 0: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 52
+Waiting clients: 
+Queue 0: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 53
+Waiting clients: 
+Queue 0: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 54
+Waiting clients: 
+Queue 0: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 55
+Waiting clients: 
+Queue 0: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 56
+Waiting clients: 
+Queue 0: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 57
+Waiting clients: 
+Queue 0: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 58
+Waiting clients: 
+Queue 0: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 59
+Waiting clients: 
+Queue 0: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Time: 60
+Waiting clients: 
+Queue 0: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Queue 6: 
+Queue 7: 
+Queue 8: 
+Queue 9: 
+Peak hour is: 60 with 0 tasks in queue.
+Average waiting time is: 0.0
+Average service time is: 0.0
